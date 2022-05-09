@@ -1,4 +1,4 @@
-# vue-router animations
+# vue-router animation
 
 ``` text
 Trying out animation in vue router using animate.css.
